@@ -8,7 +8,7 @@ I'm a Software Engineer in training and Content Creator. I'm passionate about sh
 - 🌱 I’m currently learning JavaScript and reactJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume]([#](https://drive.google.com/file/d/1khBAA_EsEafQ-YGsJMDGC7YCU418Nmv4/view?usp=sharing)https://drive.google.com/file/d/1khBAA_EsEafQ-YGsJMDGC7YCU418Nmv4/view?usp=sharing) and contact me by emailing nwankwopromise30@gmail.com.
+- 📫 You can [view my resume]([(https://drive.google.com/file/d/1khBAA_EsEafQ-YGsJMDGC7YCU418Nmv4/view?usp=sharing)https://drive.google.com/file/d/1khBAA_EsEafQ-YGsJMDGC7YCU418Nmv4/view?usp=sharing]) and contact me by emailing nwankwopromise30@gmail.com.
 
 ---
 
